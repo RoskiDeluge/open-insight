@@ -1,5 +1,5 @@
 
-# Open Source Pitch: Building the Infrastructure for Universal Data Insight
+Building the Infrastructure for Universal Data Insight
 
 ## The Premise
 
